@@ -1,4 +1,4 @@
-<h1><a href="https://www.linkedin.com/in/jervonstephen/">Jervon Stephen</a>'s IT and Cybersecurity Project Portfolio 🔐</h1>
+<h1><a href="https://www.linkedin.com/in/jervonstephen/">Jervon Stephen</a>'s IT and Cybersecurity Project Portfolio 💻🔐</h1>
 I'm passionate about both Information Technology and Cybersecurity, and I love tackling complex challenges through hands-on projects. My IT projects, including Microsoft Azure configurations and osTicket help desk implementations, showcase my skills in cloud management, directory services, ticketing workflows, and system optimization. On the cybersecurity side, from vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of technology. Please feel free to check them out and see the work I’ve put into enhancing systems and security operations!
 <h2> 💻Information Technology Projects:</h2>
 
